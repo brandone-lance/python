@@ -9,7 +9,7 @@ csv_feetInches_to_feet(file, output, heading)
   heading:  Heading of column to convert
 
 Example:
-  >>> csv_feetInches_to_feet('foo.csv', 'bar.csv', 'Height')
+csv_feetInches_to_feet('foo.csv', 'bar.csv', 'Height')
   Will take the column labeled "Height" in foo.csv, convert the quote-convention style to floating point feet, and output into bar.csv with no output given (save for errors).
 
 KNOWN ISSUES:
