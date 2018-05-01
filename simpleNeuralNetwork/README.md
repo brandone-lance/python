@@ -6,4 +6,4 @@ of iterations over which network is trained, and hiddenSize on line 11ish contro
 hidden layer.
 
 This is pretty rough around the edges. Mostly this was to teach myself the basics of how a neural
-network can be build from the ground up. In that respect, it serves its purpose.
+network can be built from the ground up. In that respect, it serves its purpose.
